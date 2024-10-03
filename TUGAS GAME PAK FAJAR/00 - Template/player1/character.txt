@@ -1,0 +1,3 @@
+1. Werkudara HP = 100 ATK = 7  Def = 10
+2. Arjuna    HP = 100 ATK = 10 Def = 5
+3. Yudistira HP = 100 ATK = 8  Def = 8

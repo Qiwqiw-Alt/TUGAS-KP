@@ -1,0 +1,3 @@
+1. Armour,10
+2. Helm,8
+3. Boots,7
